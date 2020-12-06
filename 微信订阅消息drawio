@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-06T06:23:14.386Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="D-CZ_rTx_QhIW_6JICHQ" version="13.10.9" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-06T06:24:22.533Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="TBWKm4F6WG5EW3aAla6v" version="13.10.9" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="946" dy="614" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -44,8 +44,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="WIyWlLk6GJQsqaUBKTNV-11" value="&lt;div&gt;勾选了“&lt;span style=&quot;color: rgb(53 , 53 , 53) ; text-align: left&quot;&gt;总是保持&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(53 , 53 , 53) ; text-align: left&quot;&gt;以上选择，不再询问&lt;/span&gt;”，itemSetting 的返回值代表模板的选择状态&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;spacingTop=0;spacingLeft=2;spacingRight=2;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="600" y="390" width="150" height="60" as="geometry" />
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-11" value="&lt;div&gt;勾选了“&lt;span style=&quot;color: rgb(53 , 53 , 53) ; text-align: left&quot;&gt;总是保持&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(53 , 53 , 53) ; text-align: left&quot;&gt;以上选择，不再询问&lt;/span&gt;”，itemSetting 返回值代表模板订阅状态&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;spacingTop=0;spacingLeft=2;spacingRight=2;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="595" y="620" width="175" height="60" as="geometry" />
         </mxCell>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-12" value="toast 提示用户通过微信小程序设置打开" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="640" y="275" width="150" height="50" as="geometry" />
