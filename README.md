@@ -1,24 +1,13 @@
-# first-vue3-beta
+# graph 知识图
 
-## Project setup
+## desc
 ```
-yarn install
+记录无聊的知识图
 ```
+## tool
 
-### Compiles and hot-reloads for development
 ```
-yarn serve
-```
-
-### Compiles and minifies for production
-```
-yarn build
+流程图：https://app.diagrams.net/  
+思维导图：xmind
 ```
 
-### Lints and fixes files
-```
-yarn lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
